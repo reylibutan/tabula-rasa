@@ -21,7 +21,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<start-class>com.reylibutan.tabularasa.TabularasaApplication</start-class>
+		<start-class>com.reylibutan.tabularasa.ApplicationConfig</start-class>
 		<java.version>1.7</java.version>
 		<org.mapstruct.version>1.0.0.CR1</org.mapstruct.version>
 	</properties>
